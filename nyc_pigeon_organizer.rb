@@ -5,10 +5,10 @@ def nyc_pigeon_organizer(data)
   }
     :Peter Jr. => {
       ["purple", "grey", "male", "Library"]
-    } 
+    }
     :Lucky => {
       ["purple", "male","Central Park"]
-    } 
+    }
     :Queenie => {
       ["white", "female", "Subway"]
     }
