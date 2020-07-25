@@ -15,5 +15,8 @@ def nyc_pigeon_organizer(data)
     :Ms. K => {
       ["grey", "white", "Central Park"]
     }
+    :Andrew => {
+      ["white", "male", "City Hall"]
+    }
   }# write your code here!
 end
